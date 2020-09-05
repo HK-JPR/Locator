@@ -1,0 +1,2 @@
+# Locator
+Build in angular
